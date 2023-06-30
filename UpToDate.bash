@@ -14,8 +14,8 @@ fi
 echo "Pulling changes from upstream/main..."
 git pull upstream main
 
-# Perform git pull from upstream/main
-echo "Pulling changes from upstream/main..."
-git pull upstream main
+# Perform git push to origin/main
+echo "Pushing changes to origin/main..."
+git push origin main
 
 echo "Done."
