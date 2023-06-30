@@ -1,7 +1,0 @@
-node_modules
-npm-debug.log
-lib
-cjs
-build
-.cache
-coverage
